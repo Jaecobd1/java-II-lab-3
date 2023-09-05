@@ -1,0 +1,30 @@
+IUPUI
+Indianapolis
+5
+PFW
+Fort Wayne
+3
+IUFW
+Fort Wayne
+3
+Ivy Tech
+Fort Wayne
+0
+IUSB
+South Bend
+3
+Purdue
+West Layfayett
+6
+IU
+Bloomington
+8
+Indiana Tech
+Fort Wayne
+2
+Saint Francis
+Fort Wayne
+0
+Notre Dame
+South Bend
+3
